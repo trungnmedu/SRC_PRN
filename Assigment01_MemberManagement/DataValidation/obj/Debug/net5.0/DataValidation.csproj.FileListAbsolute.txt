@@ -1,0 +1,12 @@
+D:\FPT\PRN-211\Assignment\Assigment01_MemberManagement\DataValidation\bin\Debug\net5.0\DataValidation.deps.json
+D:\FPT\PRN-211\Assignment\Assigment01_MemberManagement\DataValidation\bin\Debug\net5.0\DataValidation.dll
+D:\FPT\PRN-211\Assignment\Assigment01_MemberManagement\DataValidation\bin\Debug\net5.0\DataValidation.pdb
+D:\FPT\PRN-211\Assignment\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.csproj.AssemblyReference.cache
+D:\FPT\PRN-211\Assignment\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN-211\Assignment\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfoInputs.cache
+D:\FPT\PRN-211\Assignment\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfo.cs
+D:\FPT\PRN-211\Assignment\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.csproj.CoreCompileInputs.cache
+D:\FPT\PRN-211\Assignment\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.dll
+D:\FPT\PRN-211\Assignment\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\refint\DataValidation.dll
+D:\FPT\PRN-211\Assignment\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.pdb
+D:\FPT\PRN-211\Assignment\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\ref\DataValidation.dll

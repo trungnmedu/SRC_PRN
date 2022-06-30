@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "GlkGKqWBhsYeEmC3wZ9Rqjnf+6K/5hUFmvkiBPGUjIBNo4I1wtd3d1DN5GNBj9F4rwYCC6TsmgJXLhzm1ShdzA==",
+  "success": false,
+  "projectFilePath": "D:\\FPT\\PRN-211\\Assignment\\SRC\\PRN_Assignment02_SaleManagement\\Ass02_NUnitTest_DAO\\Ass02_NUnitTest_DAO.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project DataAccess is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project DataAccess supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "DataAccess",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
